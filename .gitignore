@@ -1,0 +1,20 @@
+# 运行时产物（不进仓库）
+.env
+memory_index.json
+memory_index.*.json
+Mem_Data/
+Mem_Archive/
+Mem_Daily/
+Mem_Core/
+Mem_Fuzzy/
+brain_mode.json
+quota*.json
+*.log
+*.bak
+__pycache__/
+*.pyc
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
